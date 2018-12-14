@@ -1,0 +1,9 @@
+server:
+  port: 10099
+
+kubernetes:
+  apiVersion: v1
+  masterUrl: https://localhost:6443
+  caCertData: ***
+  clientCertData: ***
+  clientKeyData: ***
